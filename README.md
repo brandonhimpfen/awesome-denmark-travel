@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Denmark, covering official portals, transport, region guides, cycling networks, and remote work resources.
 
+Denmark is a charming Scandinavian destination celebrated for its innovative design, sustainable urban living, historic Viking heritage, and picturesque coastal islands. This list is intended for cultural travelers, urban design enthusiasts, cycling tourists, and historic explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
